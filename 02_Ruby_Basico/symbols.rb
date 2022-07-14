@@ -1,0 +1,12 @@
+puts "Johnny".object_id
+puts "Johnny".object_id
+puts "Johnny".object_id
+puts "Johnny".object_id
+puts "Johnny".object_id
+puts "------------------------"
+puts :Johnny.object_id
+puts :Johnny.object_id
+puts :Johnny.object_id
+puts :Johnny.object_id
+puts :Johnny.object_id
+puts :Johnny.object_id
